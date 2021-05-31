@@ -22,6 +22,8 @@ XSS Is rabbit hole.
 
 ## Injection on Contact field
 
+Article: https://hackmd.io/@Chivato/HyWsJ31dI
+
 Since the inital page was vulnerable to SSTI let's try it here.
 
 {{ config }}
