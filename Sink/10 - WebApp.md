@@ -31,6 +31,6 @@ flask-unsign -d -c 'eyJlbWFpbCI6ImFkbWluQHNpbmsuaHRiIn0.YMzahw.ntyVeoP537iyzvnVM
 
 ## Creds @ Admin Notes
 
-[[00 - Creds]]
+[[HTB/Sink/00 - Creds]]
 
 ![[Pasted image 20210618205136.png]]
